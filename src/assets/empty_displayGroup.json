@@ -1,0 +1,17 @@
+{
+    "id": "95902926",
+    "description": "Will the game go to Overtime?",
+    "key": "GAME-PROP-12",
+    "marketTypeId": "1259",
+    "status": "O",
+    "singleOnly": false,
+    "notes": "",
+    "period": {
+        "id": "209",
+        "description": "Match",
+        "abbreviation": "M",
+        "live": false,
+        "main": true
+    },
+    "outcomes": []
+}

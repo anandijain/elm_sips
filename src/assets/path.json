@@ -1,0 +1,10 @@
+{
+    "id": "2958468",
+    "link": "/basketball/nba",
+    "description": "NBA",
+    "type": "LEAGUE",
+    "sportCode": "BASK",
+    "order": 1,
+    "leaf": true,
+    "current": true
+}

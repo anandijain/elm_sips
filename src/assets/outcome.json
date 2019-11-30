@@ -1,0 +1,16 @@
+{
+    "id": "511441894",
+    "description": "Los Angeles Clippers",
+    "status": "O",
+    "type": "A",
+    "competitorId": "6006148-11757497",
+    "price": {
+        "id": "3995819512",
+        "american": "-125",
+        "decimal": "1.800",
+        "fractional": "4/5",
+        "malay": "0.80",
+        "indonesian": "-1.25",
+        "hongkong": "0.80"
+    }
+}

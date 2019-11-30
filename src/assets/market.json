@@ -1,0 +1,50 @@
+{
+    "id": "95902929",
+    "description": "Moneyline",
+    "key": "2W-12",
+    "marketTypeId": "3059",
+    "status": "O",
+    "singleOnly": false,
+    "notes": "",
+    "period": {
+        "id": "209",
+        "description": "Match",
+        "abbreviation": "M",
+        "live": false,
+        "main": true
+    },
+    "outcomes": [
+        {
+            "id": "511441894",
+            "description": "Los Angeles Clippers",
+            "status": "O",
+            "type": "A",
+            "competitorId": "6006148-11757497",
+            "price": {
+                "id": "3995819512",
+                "american": "-125",
+                "decimal": "1.800",
+                "fractional": "4/5",
+                "malay": "0.80",
+                "indonesian": "-1.25",
+                "hongkong": "0.80"
+            }
+        },
+        {
+            "id": "511441895",
+            "description": "Dallas Mavericks",
+            "status": "O",
+            "type": "H",
+            "competitorId": "6006148-548",
+            "price": {
+                "id": "3995819513",
+                "american": "+105",
+                "decimal": "2.050",
+                "fractional": "21/20",
+                "malay": "-0.95",
+                "indonesian": "1.05",
+                "hongkong": "1.05"
+            }
+        }
+    ]
+}

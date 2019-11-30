@@ -1,0 +1,3705 @@
+{
+    "id": "6006148",
+    "description": "Los Angeles Clippers @ Dallas Mavericks",
+    "type": "GAMEEVENT",
+    "link": "/basketball/nba/los-angeles-clippers-dallas-mavericks-201911262030",
+    "status": "U",
+    "sport": "BASK",
+    "startTime": 1574818200000,
+    "live": false,
+    "awayTeamFirst": true,
+    "denySameGame": "NO",
+    "teaserAllowed": true,
+    "competitionId": "2958468",
+    "notes": "",
+    "numMarkets": 80,
+    "lastModified": 1574807173033,
+    "competitors": [
+        {
+            "id": "6006148-548",
+            "name": "Dallas Mavericks",
+            "home": true
+        },
+        {
+            "id": "6006148-11757497",
+            "name": "Los Angeles Clippers",
+            "home": false
+        }
+    ],
+    "displayGroups": [
+        {
+            "id": "100-97",
+            "description": "Game Lines",
+            "defaultType": true,
+            "alternateType": false,
+            "markets": [
+                {
+                    "id": "95902929",
+                    "description": "Moneyline",
+                    "key": "2W-12",
+                    "marketTypeId": "3059",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441894",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995819512",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "511441895",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995819513",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902938",
+                    "description": "Point Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "120726",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441908",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995826929",
+                                "handicap": "-1.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "511441909",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995826930",
+                                "handicap": "1.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902933",
+                    "description": "Total",
+                    "key": "2W-OU",
+                    "marketTypeId": "120725",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441902",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995761322",
+                                "handicap": "227.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        },
+                        {
+                            "id": "511441903",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995761323",
+                                "handicap": "227.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902927",
+                    "description": "Moneyline",
+                    "key": "2W-12",
+                    "marketTypeId": "3059",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441896",
+                            "description": "Los Angeles Clippers - 1H",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994657773",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "511441897",
+                            "description": "Dallas Mavericks - 1H",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994657774",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902930",
+                    "description": "Point Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "120726",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441910",
+                            "description": "Los Angeles Clippers - 1H",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992110948",
+                                "handicap": "-0.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        },
+                        {
+                            "id": "511441911",
+                            "description": "Dallas Mavericks - 1H",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992110949",
+                                "handicap": "0.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902931",
+                    "description": "Total",
+                    "key": "2W-OU",
+                    "marketTypeId": "120725",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441904",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995820478",
+                                "handicap": "115.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "511441905",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995820479",
+                                "handicap": "115.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902937",
+                    "description": "Moneyline",
+                    "key": "2W-12",
+                    "marketTypeId": "3059",
+                    "status": "S",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "210",
+                        "description": "Second Half",
+                        "abbreviation": "2H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": []
+                },
+                {
+                    "id": "95902928",
+                    "description": "Point Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "120726",
+                    "status": "S",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "210",
+                        "description": "Second Half",
+                        "abbreviation": "2H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": []
+                },
+                {
+                    "id": "95902934",
+                    "description": "Total",
+                    "key": "2W-OU",
+                    "marketTypeId": "120725",
+                    "status": "S",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "210",
+                        "description": "Second Half",
+                        "abbreviation": "2H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": []
+                },
+                {
+                    "id": "97079991",
+                    "description": "Point Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "120726",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "213",
+                        "description": "1st Quarter",
+                        "abbreviation": "Q1",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518565036",
+                            "description": "Los Angeles Clippers - 1Q",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994200465",
+                                "handicap": "0.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "518565037",
+                            "description": "Dallas Mavericks - 1Q",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994200466",
+                                "handicap": "0.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97152595",
+                    "description": "Total",
+                    "key": "2W-OU",
+                    "marketTypeId": "120725",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "213",
+                        "description": "1st Quarter",
+                        "abbreviation": "Q1",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518954259",
+                            "description": "Over - 1Q",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3993426641",
+                                "handicap": "58.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "518954260",
+                            "description": "Under - 1Q",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3993426642",
+                                "handicap": "58.5",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "order": 1
+        },
+        {
+            "id": "100-101",
+            "description": "Period/Alternate Lines",
+            "defaultType": false,
+            "alternateType": false,
+            "markets": [
+                {
+                    "id": "G-2W-HCAP.Spread.209",
+                    "description": "Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "1257",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518563859",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995791587",
+                                "handicap": "1.0",
+                                "american": "-130",
+                                "decimal": "1.769230",
+                                "fractional": "10/13",
+                                "malay": "0.77",
+                                "indonesian": "-1.30",
+                                "hongkong": "0.77"
+                            }
+                        },
+                        {
+                            "id": "518563858",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995791586",
+                                "handicap": "-1.0",
+                                "american": "EVEN",
+                                "decimal": "2.00",
+                                "fractional": "1/1",
+                                "malay": "1.00",
+                                "indonesian": "1.00",
+                                "hongkong": "1.00"
+                            }
+                        },
+                        {
+                            "id": "518563857",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994248604",
+                                "handicap": "1.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518563856",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994248603",
+                                "handicap": "-1.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518563855",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994267934",
+                                "handicap": "2.0",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518563854",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994267933",
+                                "handicap": "-2.0",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518563853",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995759825",
+                                "handicap": "2.5",
+                                "american": "-150",
+                                "decimal": "1.666667",
+                                "fractional": "2/3",
+                                "malay": "0.67",
+                                "indonesian": "-1.50",
+                                "hongkong": "0.67"
+                            }
+                        },
+                        {
+                            "id": "518563852",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995759824",
+                                "handicap": "-2.5",
+                                "american": "+115",
+                                "decimal": "2.150",
+                                "fractional": "23/20",
+                                "malay": "-0.87",
+                                "indonesian": "1.15",
+                                "hongkong": "1.15"
+                            }
+                        },
+                        {
+                            "id": "518563868",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995759822",
+                                "handicap": "-3.5",
+                                "american": "+135",
+                                "decimal": "2.350",
+                                "fractional": "27/20",
+                                "malay": "-0.74",
+                                "indonesian": "1.35",
+                                "hongkong": "1.35"
+                            }
+                        },
+                        {
+                            "id": "518563869",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995759823",
+                                "handicap": "3.5",
+                                "american": "-180",
+                                "decimal": "1.555556",
+                                "fractional": "5/9",
+                                "malay": "0.56",
+                                "indonesian": "-1.80",
+                                "hongkong": "0.56"
+                            }
+                        },
+                        {
+                            "id": "518563870",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994267931",
+                                "handicap": "-4.0",
+                                "american": "+145",
+                                "decimal": "2.450",
+                                "fractional": "29/20",
+                                "malay": "-0.69",
+                                "indonesian": "1.45",
+                                "hongkong": "1.45"
+                            }
+                        },
+                        {
+                            "id": "518563871",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994267932",
+                                "handicap": "4.0",
+                                "american": "-190",
+                                "decimal": "1.526316",
+                                "fractional": "10/19",
+                                "malay": "0.53",
+                                "indonesian": "-1.90",
+                                "hongkong": "0.53"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-HCAP.Spread.211",
+                    "description": "Spread",
+                    "key": "2W-HCAP",
+                    "marketTypeId": "1257",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518699617",
+                            "description": "Los Angeles Clippers - 1H",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3995711886",
+                                "handicap": "0.5",
+                                "american": "-130",
+                                "decimal": "1.769230",
+                                "fractional": "10/13",
+                                "malay": "0.77",
+                                "indonesian": "-1.30",
+                                "hongkong": "0.77"
+                            }
+                        },
+                        {
+                            "id": "518699616",
+                            "description": "Dallas Mavericks - 1H",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995711885",
+                                "handicap": "-0.5",
+                                "american": "EVEN",
+                                "decimal": "2.00",
+                                "fractional": "1/1",
+                                "malay": "1.00",
+                                "indonesian": "1.00",
+                                "hongkong": "1.00"
+                            }
+                        },
+                        {
+                            "id": "518699620",
+                            "description": "Los Angeles Clippers - 1H",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992938908",
+                                "handicap": "-1.0",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518699621",
+                            "description": "Dallas Mavericks - 1H",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992938909",
+                                "handicap": "1.0",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518699622",
+                            "description": "Los Angeles Clippers - 1H",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994248442",
+                                "handicap": "-1.5",
+                                "american": "+125",
+                                "decimal": "2.250",
+                                "fractional": "5/4",
+                                "malay": "-0.80",
+                                "indonesian": "1.25",
+                                "hongkong": "1.25"
+                            }
+                        },
+                        {
+                            "id": "518699624",
+                            "description": "Dallas Mavericks - 1H",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994248443",
+                                "handicap": "1.5",
+                                "american": "-165",
+                                "decimal": "1.606061",
+                                "fractional": "20/33",
+                                "malay": "0.61",
+                                "indonesian": "-1.65",
+                                "hongkong": "0.61"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U.209",
+                    "description": "Total Points O/U",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518563821",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821449",
+                                "handicap": "220.5",
+                                "american": "-200",
+                                "decimal": "1.500",
+                                "fractional": "1/2",
+                                "malay": "0.50",
+                                "indonesian": "-2.00",
+                                "hongkong": "0.50"
+                            }
+                        },
+                        {
+                            "id": "518563819",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821450",
+                                "handicap": "220.5",
+                                "american": "+150",
+                                "decimal": "2.500",
+                                "fractional": "6/4",
+                                "malay": "-0.67",
+                                "indonesian": "1.50",
+                                "hongkong": "1.50"
+                            }
+                        },
+                        {
+                            "id": "518563823",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821446",
+                                "handicap": "221.0",
+                                "american": "-190",
+                                "decimal": "1.526316",
+                                "fractional": "10/19",
+                                "malay": "0.53",
+                                "indonesian": "-1.90",
+                                "hongkong": "0.53"
+                            }
+                        },
+                        {
+                            "id": "518563822",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821445",
+                                "handicap": "221.0",
+                                "american": "+145",
+                                "decimal": "2.450",
+                                "fractional": "29/20",
+                                "malay": "-0.69",
+                                "indonesian": "1.45",
+                                "hongkong": "1.45"
+                            }
+                        },
+                        {
+                            "id": "518563824",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821448",
+                                "handicap": "221.5",
+                                "american": "-185",
+                                "decimal": "1.540541",
+                                "fractional": "20/37",
+                                "malay": "0.54",
+                                "indonesian": "-1.85",
+                                "hongkong": "0.54"
+                            }
+                        },
+                        {
+                            "id": "518563825",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821447",
+                                "handicap": "221.5",
+                                "american": "+140",
+                                "decimal": "2.400",
+                                "fractional": "7/5",
+                                "malay": "-0.71",
+                                "indonesian": "1.40",
+                                "hongkong": "1.40"
+                            }
+                        },
+                        {
+                            "id": "518563826",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821442",
+                                "handicap": "222.0",
+                                "american": "-180",
+                                "decimal": "1.555556",
+                                "fractional": "5/9",
+                                "malay": "0.56",
+                                "indonesian": "-1.80",
+                                "hongkong": "0.56"
+                            }
+                        },
+                        {
+                            "id": "518563827",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821441",
+                                "handicap": "222.0",
+                                "american": "+135",
+                                "decimal": "2.350",
+                                "fractional": "27/20",
+                                "malay": "-0.74",
+                                "indonesian": "1.35",
+                                "hongkong": "1.35"
+                            }
+                        },
+                        {
+                            "id": "518563829",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821444",
+                                "handicap": "222.5",
+                                "american": "-170",
+                                "decimal": "1.588235",
+                                "fractional": "10/17",
+                                "malay": "0.59",
+                                "indonesian": "-1.70",
+                                "hongkong": "0.59"
+                            }
+                        },
+                        {
+                            "id": "518563828",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821443",
+                                "handicap": "222.5",
+                                "american": "+130",
+                                "decimal": "2.300",
+                                "fractional": "13/10",
+                                "malay": "-0.77",
+                                "indonesian": "1.30",
+                                "hongkong": "1.30"
+                            }
+                        },
+                        {
+                            "id": "518563830",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821435",
+                                "handicap": "223.0",
+                                "american": "-165",
+                                "decimal": "1.606061",
+                                "fractional": "20/33",
+                                "malay": "0.61",
+                                "indonesian": "-1.65",
+                                "hongkong": "0.61"
+                            }
+                        },
+                        {
+                            "id": "518563831",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821436",
+                                "handicap": "223.0",
+                                "american": "+125",
+                                "decimal": "2.250",
+                                "fractional": "5/4",
+                                "malay": "-0.80",
+                                "indonesian": "1.25",
+                                "hongkong": "1.25"
+                            }
+                        },
+                        {
+                            "id": "518563832",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821437",
+                                "handicap": "223.5",
+                                "american": "-160",
+                                "decimal": "1.625",
+                                "fractional": "5/8",
+                                "malay": "0.62",
+                                "indonesian": "-1.60",
+                                "hongkong": "0.62"
+                            }
+                        },
+                        {
+                            "id": "518563833",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821438",
+                                "handicap": "223.5",
+                                "american": "+120",
+                                "decimal": "2.200",
+                                "fractional": "6/5",
+                                "malay": "-0.83",
+                                "indonesian": "1.20",
+                                "hongkong": "1.20"
+                            }
+                        },
+                        {
+                            "id": "518563834",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821431",
+                                "handicap": "224.0",
+                                "american": "-150",
+                                "decimal": "1.666667",
+                                "fractional": "2/3",
+                                "malay": "0.67",
+                                "indonesian": "-1.50",
+                                "hongkong": "0.67"
+                            }
+                        },
+                        {
+                            "id": "518563836",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821432",
+                                "handicap": "224.0",
+                                "american": "+115",
+                                "decimal": "2.150",
+                                "fractional": "23/20",
+                                "malay": "-0.87",
+                                "indonesian": "1.15",
+                                "hongkong": "1.15"
+                            }
+                        },
+                        {
+                            "id": "518563838",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995818503",
+                                "handicap": "224.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518563839",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995818502",
+                                "handicap": "224.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518563840",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821424",
+                                "handicap": "225.0",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518563841",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821423",
+                                "handicap": "225.0",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518775362",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821427",
+                                "handicap": "229.0",
+                                "american": "+115",
+                                "decimal": "2.150",
+                                "fractional": "23/20",
+                                "malay": "-0.87",
+                                "indonesian": "1.15",
+                                "hongkong": "1.15"
+                            }
+                        },
+                        {
+                            "id": "518775363",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821428",
+                                "handicap": "229.0",
+                                "american": "-150",
+                                "decimal": "1.666667",
+                                "fractional": "2/3",
+                                "malay": "0.67",
+                                "indonesian": "-1.50",
+                                "hongkong": "0.67"
+                            }
+                        },
+                        {
+                            "id": "518775364",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821425",
+                                "handicap": "229.5",
+                                "american": "+120",
+                                "decimal": "2.200",
+                                "fractional": "6/5",
+                                "malay": "-0.83",
+                                "indonesian": "1.20",
+                                "hongkong": "1.20"
+                            }
+                        },
+                        {
+                            "id": "518775365",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821426",
+                                "handicap": "229.5",
+                                "american": "-160",
+                                "decimal": "1.625",
+                                "fractional": "5/8",
+                                "malay": "0.62",
+                                "indonesian": "-1.60",
+                                "hongkong": "0.62"
+                            }
+                        },
+                        {
+                            "id": "518775367",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821455",
+                                "handicap": "230.0",
+                                "american": "+125",
+                                "decimal": "2.250",
+                                "fractional": "5/4",
+                                "malay": "-0.80",
+                                "indonesian": "1.25",
+                                "hongkong": "1.25"
+                            }
+                        },
+                        {
+                            "id": "518775366",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821456",
+                                "handicap": "230.0",
+                                "american": "-165",
+                                "decimal": "1.606061",
+                                "fractional": "20/33",
+                                "malay": "0.61",
+                                "indonesian": "-1.65",
+                                "hongkong": "0.61"
+                            }
+                        },
+                        {
+                            "id": "518775368",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821453",
+                                "handicap": "230.5",
+                                "american": "+130",
+                                "decimal": "2.300",
+                                "fractional": "13/10",
+                                "malay": "-0.77",
+                                "indonesian": "1.30",
+                                "hongkong": "1.30"
+                            }
+                        },
+                        {
+                            "id": "518775369",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821454",
+                                "handicap": "230.5",
+                                "american": "-170",
+                                "decimal": "1.588235",
+                                "fractional": "10/17",
+                                "malay": "0.59",
+                                "indonesian": "-1.70",
+                                "hongkong": "0.59"
+                            }
+                        },
+                        {
+                            "id": "518775371",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821452",
+                                "handicap": "231.0",
+                                "american": "+135",
+                                "decimal": "2.350",
+                                "fractional": "27/20",
+                                "malay": "-0.74",
+                                "indonesian": "1.35",
+                                "hongkong": "1.35"
+                            }
+                        },
+                        {
+                            "id": "518775370",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821451",
+                                "handicap": "231.0",
+                                "american": "-180",
+                                "decimal": "1.555556",
+                                "fractional": "5/9",
+                                "malay": "0.56",
+                                "indonesian": "-1.80",
+                                "hongkong": "0.56"
+                            }
+                        },
+                        {
+                            "id": "518775373",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821461",
+                                "handicap": "231.5",
+                                "american": "+140",
+                                "decimal": "2.400",
+                                "fractional": "7/5",
+                                "malay": "-0.71",
+                                "indonesian": "1.40",
+                                "hongkong": "1.40"
+                            }
+                        },
+                        {
+                            "id": "518775372",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821462",
+                                "handicap": "231.5",
+                                "american": "-185",
+                                "decimal": "1.540541",
+                                "fractional": "20/37",
+                                "malay": "0.54",
+                                "indonesian": "-1.85",
+                                "hongkong": "0.54"
+                            }
+                        },
+                        {
+                            "id": "518775374",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821460",
+                                "handicap": "232.0",
+                                "american": "+145",
+                                "decimal": "2.450",
+                                "fractional": "29/20",
+                                "malay": "-0.69",
+                                "indonesian": "1.45",
+                                "hongkong": "1.45"
+                            }
+                        },
+                        {
+                            "id": "518775375",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821459",
+                                "handicap": "232.0",
+                                "american": "-190",
+                                "decimal": "1.526316",
+                                "fractional": "10/19",
+                                "malay": "0.53",
+                                "indonesian": "-1.90",
+                                "hongkong": "0.53"
+                            }
+                        },
+                        {
+                            "id": "518775376",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995821458",
+                                "handicap": "232.5",
+                                "american": "+150",
+                                "decimal": "2.500",
+                                "fractional": "6/4",
+                                "malay": "-0.67",
+                                "indonesian": "1.50",
+                                "hongkong": "1.50"
+                            }
+                        },
+                        {
+                            "id": "518775377",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995821457",
+                                "handicap": "232.5",
+                                "american": "-200",
+                                "decimal": "1.500",
+                                "fractional": "1/2",
+                                "malay": "0.50",
+                                "indonesian": "-2.00",
+                                "hongkong": "0.50"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Dallas Mavericks.209",
+                    "description": "Total Points O/U - Dallas Mavericks",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518563879",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994268026",
+                                "handicap": "113.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "518563878",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994268025",
+                                "handicap": "113.5",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Los Angeles Clippers.209",
+                    "description": "Total Points O/U - Los Angeles Clippers",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518563876",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994268040",
+                                "handicap": "113.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "518563877",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994268039",
+                                "handicap": "113.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U.211",
+                    "description": "Total Points O/U",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518750154",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3994066761",
+                                "handicap": "114.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518750153",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3994066760",
+                                "handicap": "114.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518750155",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3994066763",
+                                "handicap": "115.0",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518750156",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3994066762",
+                                "handicap": "115.0",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518821725",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995411650",
+                                "handicap": "116.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        },
+                        {
+                            "id": "518821726",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995411651",
+                                "handicap": "116.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "518750161",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "price": {
+                                "id": "3995749434",
+                                "handicap": "117.5",
+                                "american": "+130",
+                                "decimal": "2.300",
+                                "fractional": "13/10",
+                                "malay": "-0.77",
+                                "indonesian": "1.30",
+                                "hongkong": "1.30"
+                            }
+                        },
+                        {
+                            "id": "518750162",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "price": {
+                                "id": "3995749435",
+                                "handicap": "117.5",
+                                "american": "-170",
+                                "decimal": "1.588235",
+                                "fractional": "10/17",
+                                "malay": "0.59",
+                                "indonesian": "-1.70",
+                                "hongkong": "0.59"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Dallas Mavericks.211",
+                    "description": "Total Points O/U - Dallas Mavericks",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518577856",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995790140",
+                                "handicap": "58.0",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "518577855",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995790141",
+                                "handicap": "58.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Los Angeles Clippers.211",
+                    "description": "Total Points O/U - Los Angeles Clippers",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518577857",
+                            "description": "Over - 1H",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994264827",
+                                "handicap": "58.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "518577858",
+                            "description": "Under - 1H",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994264828",
+                                "handicap": "58.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Dallas Mavericks.213",
+                    "description": "Total Points O/U - Dallas Mavericks",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "213",
+                        "description": "1st Quarter",
+                        "abbreviation": "Q1",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518577859",
+                            "description": "Over - 1Q",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3995785284",
+                                "handicap": "29.0",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "518577860",
+                            "description": "Under - 1Q",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3993324678",
+                                "handicap": "29.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points O/U - Los Angeles Clippers.213",
+                    "description": "Total Points O/U - Los Angeles Clippers",
+                    "key": "2W-OU",
+                    "marketTypeId": "15",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "213",
+                        "description": "1st Quarter",
+                        "abbreviation": "Q1",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518577861",
+                            "description": "Over - 1Q",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994264845",
+                                "handicap": "29.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "518577862",
+                            "description": "Under - 1Q",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994264844",
+                                "handicap": "29.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "order": 4
+        },
+        {
+            "id": "100-104",
+            "description": "Game Props",
+            "defaultType": false,
+            "alternateType": false,
+            "markets": [
+                {
+                    "id": "95902935",
+                    "description": "First team to reach 10 points",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "-1120",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441874",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994908368",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "511441875",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994908367",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902936",
+                    "description": "First Team to reach 20 points",
+                    "key": "GAME-PROP",
+                    "marketTypeId": "-1082",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441890",
+                            "description": "Los Angeles Clippers",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3994908361",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "511441891",
+                            "description": "Dallas Mavericks",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3994908360",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97082365",
+                    "description": "Odd/Even Total Points",
+                    "key": "2W-OE",
+                    "marketTypeId": "180",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518585567",
+                            "description": "Even",
+                            "status": "O",
+                            "type": "EV",
+                            "price": {
+                                "id": "3990642817",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "518585566",
+                            "description": "Odd",
+                            "status": "O",
+                            "type": "OD",
+                            "price": {
+                                "id": "3990642816",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97082364",
+                    "description": "Odd/Even Total Points",
+                    "key": "2W-OE",
+                    "marketTypeId": "180",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "211",
+                        "description": "First Half",
+                        "abbreviation": "1H",
+                        "live": false,
+                        "main": false
+                    },
+                    "outcomes": [
+                        {
+                            "id": "518585564",
+                            "description": "Even - 1H",
+                            "status": "O",
+                            "type": "EV",
+                            "price": {
+                                "id": "3990642812",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        },
+                        {
+                            "id": "518585565",
+                            "description": "Odd - 1H",
+                            "status": "O",
+                            "type": "OD",
+                            "price": {
+                                "id": "3990642813",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902926",
+                    "description": "Will the game go to Overtime?",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "1259",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441892",
+                            "description": "Yes",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3993632136",
+                                "american": "+900",
+                                "decimal": "10.00",
+                                "fractional": "9/1",
+                                "malay": "-0.11",
+                                "indonesian": "9.00",
+                                "hongkong": "9.00"
+                            }
+                        },
+                        {
+                            "id": "511441893",
+                            "description": "No",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3993632135",
+                                "american": "-2900",
+                                "decimal": "1.034",
+                                "fractional": "1/33",
+                                "malay": "0.03",
+                                "indonesian": "-29.00",
+                                "hongkong": "0.03"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902939",
+                    "description": "Winning Margin",
+                    "key": "GAME-PROP",
+                    "marketTypeId": "-1118",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "511441876",
+                            "description": "Clippers by 1-2 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474713",
+                                "american": "+1100",
+                                "decimal": "12.00",
+                                "fractional": "11/1",
+                                "malay": "-0.09",
+                                "indonesian": "11.00",
+                                "hongkong": "11.00"
+                            }
+                        },
+                        {
+                            "id": "511441877",
+                            "description": "Clippers by 3-6 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474712",
+                                "american": "+550",
+                                "decimal": "6.500",
+                                "fractional": "11/2",
+                                "malay": "-0.18",
+                                "indonesian": "5.50",
+                                "hongkong": "5.50"
+                            }
+                        },
+                        {
+                            "id": "511441878",
+                            "description": "Clippers by 7-9 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474711",
+                                "american": "+850",
+                                "decimal": "9.500",
+                                "fractional": "17/2",
+                                "malay": "-0.12",
+                                "indonesian": "8.50",
+                                "hongkong": "8.50"
+                            }
+                        },
+                        {
+                            "id": "511441879",
+                            "description": "Clippers by 10-13 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474710",
+                                "american": "+750",
+                                "decimal": "8.500",
+                                "fractional": "15/2",
+                                "malay": "-0.13",
+                                "indonesian": "7.50",
+                                "hongkong": "7.50"
+                            }
+                        },
+                        {
+                            "id": "511441880",
+                            "description": "Clippers by 14-16 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474705",
+                                "american": "+1200",
+                                "decimal": "13.00",
+                                "fractional": "12/1",
+                                "malay": "-0.08",
+                                "indonesian": "12.00",
+                                "hongkong": "12.00"
+                            }
+                        },
+                        {
+                            "id": "511441881",
+                            "description": "Clippers by 17-20 points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474704",
+                                "american": "+1400",
+                                "decimal": "15.00",
+                                "fractional": "14/1",
+                                "malay": "-0.07",
+                                "indonesian": "14.00",
+                                "hongkong": "14.00"
+                            }
+                        },
+                        {
+                            "id": "511441882",
+                            "description": "Clippers by 21+ points",
+                            "status": "O",
+                            "type": "A",
+                            "competitorId": "6006148-11757497",
+                            "price": {
+                                "id": "3992474703",
+                                "american": "+800",
+                                "decimal": "9.00",
+                                "fractional": "8/1",
+                                "malay": "-0.12",
+                                "indonesian": "8.00",
+                                "hongkong": "8.00"
+                            }
+                        },
+                        {
+                            "id": "511441883",
+                            "description": "Mavericks by 1-2 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474702",
+                                "american": "+1100",
+                                "decimal": "12.00",
+                                "fractional": "11/1",
+                                "malay": "-0.09",
+                                "indonesian": "11.00",
+                                "hongkong": "11.00"
+                            }
+                        },
+                        {
+                            "id": "511441884",
+                            "description": "Mavericks by 3-6 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474709",
+                                "american": "+600",
+                                "decimal": "7.00",
+                                "fractional": "6/1",
+                                "malay": "-0.17",
+                                "indonesian": "6.00",
+                                "hongkong": "6.00"
+                            }
+                        },
+                        {
+                            "id": "511441885",
+                            "description": "Mavericks by 7-9 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474708",
+                                "american": "+1000",
+                                "decimal": "11.00",
+                                "fractional": "10/1",
+                                "malay": "-0.10",
+                                "indonesian": "10.00",
+                                "hongkong": "10.00"
+                            }
+                        },
+                        {
+                            "id": "511441886",
+                            "description": "Mavericks by 10-13 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474707",
+                                "american": "+1000",
+                                "decimal": "11.00",
+                                "fractional": "10/1",
+                                "malay": "-0.10",
+                                "indonesian": "10.00",
+                                "hongkong": "10.00"
+                            }
+                        },
+                        {
+                            "id": "511441887",
+                            "description": "Mavericks by 14-16 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474706",
+                                "american": "+1800",
+                                "decimal": "19.00",
+                                "fractional": "18/1",
+                                "malay": "-0.06",
+                                "indonesian": "18.00",
+                                "hongkong": "18.00"
+                            }
+                        },
+                        {
+                            "id": "511441888",
+                            "description": "Mavericks by 17-20 points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992475619",
+                                "american": "+2000",
+                                "decimal": "21.00",
+                                "fractional": "20/1",
+                                "malay": "-0.05",
+                                "indonesian": "20.00",
+                                "hongkong": "20.00"
+                            }
+                        },
+                        {
+                            "id": "511441889",
+                            "description": "Mavericks by 21+ points",
+                            "status": "O",
+                            "type": "H",
+                            "competitorId": "6006148-548",
+                            "price": {
+                                "id": "3992474714",
+                                "american": "+1200",
+                                "decimal": "13.00",
+                                "fractional": "12/1",
+                                "malay": "-0.08",
+                                "indonesian": "12.00",
+                                "hongkong": "12.00"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "95902932",
+                    "description": "Team With Highest Scoring Quarter",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "13934",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": []
+                }
+            ],
+            "order": 6
+        },
+        {
+            "id": "100-105",
+            "description": "Player Props",
+            "defaultType": false,
+            "alternateType": false,
+            "markets": [
+                {
+                    "id": "97172961",
+                    "description": "Will Kristaps Porzingis (DAL) record a Double-Double?",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "-1093",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076123",
+                            "description": "Yes",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894935",
+                                "american": "+125",
+                                "decimal": "2.250",
+                                "fractional": "5/4",
+                                "malay": "-0.80",
+                                "indonesian": "1.25",
+                                "hongkong": "1.25"
+                            }
+                        },
+                        {
+                            "id": "519076124",
+                            "description": "No",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894936",
+                                "american": "-165",
+                                "decimal": "1.606061",
+                                "fractional": "20/33",
+                                "malay": "0.61",
+                                "indonesian": "-1.65",
+                                "hongkong": "0.61"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97172967",
+                    "description": "Will Luka Donkic (DAL) record a Double-Double?",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "-1093",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076135",
+                            "description": "Yes",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894931",
+                                "american": "-360",
+                                "decimal": "1.277778",
+                                "fractional": "5/18",
+                                "malay": "0.28",
+                                "indonesian": "-3.60",
+                                "hongkong": "0.28"
+                            }
+                        },
+                        {
+                            "id": "519076136",
+                            "description": "No",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894932",
+                                "american": "+250",
+                                "decimal": "3.500",
+                                "fractional": "5/2",
+                                "malay": "-0.40",
+                                "indonesian": "2.50",
+                                "hongkong": "2.50"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97172765",
+                    "description": "Will Kawhi Leonard (LAC) record a Triple-Double?",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "-1138",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074859",
+                            "description": "Yes",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894951",
+                                "american": "+275",
+                                "decimal": "3.750",
+                                "fractional": "11/4",
+                                "malay": "-0.36",
+                                "indonesian": "2.75",
+                                "hongkong": "2.75"
+                            }
+                        },
+                        {
+                            "id": "519074860",
+                            "description": "No",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894952",
+                                "american": "-400",
+                                "decimal": "1.250",
+                                "fractional": "1/4",
+                                "malay": "0.25",
+                                "indonesian": "-4.00",
+                                "hongkong": "0.25"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "97172769",
+                    "description": "Will Paul George (LAC) record a Triple-Double?",
+                    "key": "GAME-PROP-12",
+                    "marketTypeId": "-1138",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074867",
+                            "description": "Yes",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894947",
+                                "american": "+340",
+                                "decimal": "4.400",
+                                "fractional": "17/5",
+                                "malay": "-0.29",
+                                "indonesian": "3.40",
+                                "hongkong": "3.40"
+                            }
+                        },
+                        {
+                            "id": "519074868",
+                            "description": "No",
+                            "status": "O",
+                            "type": "X",
+                            "price": {
+                                "id": "3994894948",
+                                "american": "-525",
+                                "decimal": "1.190",
+                                "fractional": "4/21",
+                                "malay": "0.19",
+                                "indonesian": "-5.25",
+                                "hongkong": "0.19"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Dorian Finney-Smith (DAL).209",
+                    "description": "Total Points - Dorian Finney-Smith (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076125",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891596",
+                                "handicap": "8.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "519076126",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891597",
+                                "handicap": "8.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Kawhi Leonard (LAC).209",
+                    "description": "Total Points - Kawhi Leonard (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074861",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846597",
+                                "handicap": "24.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "519074862",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846598",
+                                "handicap": "24.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Kristaps Porzingis (DAL).209",
+                    "description": "Total Points - Kristaps Porzingis (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076137",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994878993",
+                                "handicap": "19.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        },
+                        {
+                            "id": "519076138",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994878994",
+                                "handicap": "19.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Luka Donkic (DAL).209",
+                    "description": "Total Points - Luka Donkic (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076139",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3995054723",
+                                "handicap": "30.5",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "519076140",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3995054724",
+                                "handicap": "30.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Patrick Beverley (LAC).209",
+                    "description": "Total Points - Patrick Beverley (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074869",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864962",
+                                "handicap": "8.5",
+                                "american": "EVEN",
+                                "decimal": "2.00",
+                                "fractional": "1/1",
+                                "malay": "1.00",
+                                "indonesian": "1.00",
+                                "hongkong": "1.00"
+                            }
+                        },
+                        {
+                            "id": "519074870",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864963",
+                                "handicap": "8.5",
+                                "american": "-130",
+                                "decimal": "1.769230",
+                                "fractional": "10/13",
+                                "malay": "0.77",
+                                "indonesian": "-1.30",
+                                "hongkong": "0.77"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Paul George (LAC).209",
+                    "description": "Total Points - Paul George (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074871",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994935317",
+                                "handicap": "24.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "519074872",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994935318",
+                                "handicap": "24.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points - Tim Hardaway Jr. (DAL).209",
+                    "description": "Total Points - Tim Hardaway Jr. (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1196",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076141",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891601",
+                                "handicap": "14.0",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        },
+                        {
+                            "id": "519076142",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891602",
+                                "handicap": "14.0",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds - Kristaps Porzingis (DAL).209",
+                    "description": "Total Rebounds - Kristaps Porzingis (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1073",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076127",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994878997",
+                                "handicap": "8.5",
+                                "american": "-150",
+                                "decimal": "1.666667",
+                                "fractional": "2/3",
+                                "malay": "0.67",
+                                "indonesian": "-1.50",
+                                "hongkong": "0.67"
+                            }
+                        },
+                        {
+                            "id": "519076128",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994878996",
+                                "handicap": "8.5",
+                                "american": "+115",
+                                "decimal": "2.150",
+                                "fractional": "23/20",
+                                "malay": "-0.87",
+                                "indonesian": "1.15",
+                                "hongkong": "1.15"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points and Rebounds - Kristaps Porzingis (DAL).209",
+                    "description": "Total Points and Rebounds - Kristaps Porzingis (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1757",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076133",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994879003",
+                                "handicap": "28.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "519076134",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173929",
+                            "price": {
+                                "id": "3994879004",
+                                "handicap": "28.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Dorian Finney-Smith (DAL).209",
+                    "description": "Total Rebounds and Assists - Dorian Finney-Smith (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076129",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891606",
+                                "handicap": "6.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519076130",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891607",
+                                "handicap": "6.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Kawhi Leonard (LAC).209",
+                    "description": "Total Rebounds and Assists - Kawhi Leonard (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074863",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846600",
+                                "handicap": "11.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519074864",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846599",
+                                "handicap": "11.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Luka Donkic (DAL).209",
+                    "description": "Total Rebounds and Assists - Luka Donkic (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076143",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3994869240",
+                                "handicap": "19.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519076144",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3994869239",
+                                "handicap": "19.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Patrick Beverley (LAC).209",
+                    "description": "Total Rebounds and Assists - Patrick Beverley (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074873",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864964",
+                                "handicap": "9.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519074874",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864965",
+                                "handicap": "9.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Paul George (LAC).209",
+                    "description": "Total Rebounds and Assists - Paul George (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074875",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994864966",
+                                "handicap": "10.5",
+                                "american": "-125",
+                                "decimal": "1.800",
+                                "fractional": "4/5",
+                                "malay": "0.80",
+                                "indonesian": "-1.25",
+                                "hongkong": "0.80"
+                            }
+                        },
+                        {
+                            "id": "519074876",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994864967",
+                                "handicap": "10.5",
+                                "american": "-105",
+                                "decimal": "1.952381",
+                                "fractional": "20/21",
+                                "malay": "0.95",
+                                "indonesian": "-1.05",
+                                "hongkong": "0.95"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Rebounds and Assists - Tim Hardaway Jr. (DAL).209",
+                    "description": "Total Rebounds and Assists - Tim Hardaway Jr. (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1075",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076145",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891608",
+                                "handicap": "5.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519076146",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891609",
+                                "handicap": "5.0",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Dorian Finney-Smith (DAL).209",
+                    "description": "Total Points, Rebounds and Assists - Dorian Finney-Smith (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076131",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891622",
+                                "handicap": "15.5",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "519076132",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-10898040",
+                            "price": {
+                                "id": "3994891623",
+                                "handicap": "15.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Kawhi Leonard (LAC).209",
+                    "description": "Total Points, Rebounds and Assists - Kawhi Leonard (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074865",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846601",
+                                "handicap": "36.5",
+                                "american": "-135",
+                                "decimal": "1.741",
+                                "fractional": "20/27",
+                                "malay": "0.74",
+                                "indonesian": "-1.35",
+                                "hongkong": "0.74"
+                            }
+                        },
+                        {
+                            "id": "519074866",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218232",
+                            "price": {
+                                "id": "3994846602",
+                                "handicap": "36.5",
+                                "american": "+105",
+                                "decimal": "2.050",
+                                "fractional": "21/20",
+                                "malay": "-0.95",
+                                "indonesian": "1.05",
+                                "hongkong": "1.05"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Luka Donkic (DAL).209",
+                    "description": "Total Points, Rebounds and Assists - Luka Donkic (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076147",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3994869241",
+                                "handicap": "49.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519076148",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11918941",
+                            "price": {
+                                "id": "3994869242",
+                                "handicap": "49.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Patrick Beverley (LAC).209",
+                    "description": "Total Points, Rebounds and Assists - Patrick Beverley (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074877",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864968",
+                                "handicap": "17.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        },
+                        {
+                            "id": "519074878",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-11861132",
+                            "price": {
+                                "id": "3994864969",
+                                "handicap": "17.5",
+                                "american": "-115",
+                                "decimal": "1.870",
+                                "fractional": "20/23",
+                                "malay": "0.87",
+                                "indonesian": "-1.15",
+                                "hongkong": "0.87"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Paul George (LAC).209",
+                    "description": "Total Points, Rebounds and Assists - Paul George (LAC)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519074879",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994853637",
+                                "handicap": "35.5",
+                                "american": "-120",
+                                "decimal": "1.833333",
+                                "fractional": "5/6",
+                                "malay": "0.83",
+                                "indonesian": "-1.20",
+                                "hongkong": "0.83"
+                            }
+                        },
+                        {
+                            "id": "519074880",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-14218237",
+                            "price": {
+                                "id": "3994853636",
+                                "handicap": "35.5",
+                                "american": "-110",
+                                "decimal": "1.909091",
+                                "fractional": "10/11",
+                                "malay": "0.91",
+                                "indonesian": "-1.10",
+                                "hongkong": "0.91"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "G-2W-OU.Total Points, Rebounds and Assists - Tim Hardaway Jr. (DAL).209",
+                    "description": "Total Points, Rebounds and Assists - Tim Hardaway Jr. (DAL)",
+                    "key": "2W-OU",
+                    "marketTypeId": "-1098",
+                    "status": "O",
+                    "singleOnly": false,
+                    "notes": "Must start for action",
+                    "period": {
+                        "id": "209",
+                        "description": "Match",
+                        "abbreviation": "M",
+                        "live": false,
+                        "main": true
+                    },
+                    "outcomes": [
+                        {
+                            "id": "519076149",
+                            "description": "Over",
+                            "status": "O",
+                            "type": "O",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891616",
+                                "handicap": "19.5",
+                                "american": "EVEN",
+                                "decimal": "2.00",
+                                "fractional": "1/1",
+                                "malay": "1.00",
+                                "indonesian": "1.00",
+                                "hongkong": "1.00"
+                            }
+                        },
+                        {
+                            "id": "519076150",
+                            "description": "Under",
+                            "status": "O",
+                            "type": "U",
+                            "competitorId": "6006148-12173928",
+                            "price": {
+                                "id": "3994891617",
+                                "handicap": "19.5",
+                                "american": "-130",
+                                "decimal": "1.769230",
+                                "fractional": "10/13",
+                                "malay": "0.77",
+                                "indonesian": "-1.30",
+                                "hongkong": "0.77"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "order": 7
+        }
+    ]
+}
